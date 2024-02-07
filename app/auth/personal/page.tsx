@@ -16,7 +16,7 @@ const page = async () => {
   }
 
   return (
-    <HeaderAuth textHeader="Personal Data" alt="ato" image="/Ato.svg">
+    <HeaderAuth textHeader="Personal Data" alt="ato" image="/T-Chat.svg">
       <FormPersonal data={data} />
     </HeaderAuth>
   );
